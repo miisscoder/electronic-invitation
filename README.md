@@ -28,6 +28,8 @@ use browser to open directly
 
 ### Manual Deployment Notes
 
-## Running Tests
+## Running Testsfont
 
 ## Notes
+The client asked for using image instead of fonts to speed up the loading.
+客户要求用图片，而不是加载字体，以加快网页加载速度

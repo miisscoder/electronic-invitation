@@ -20,9 +20,11 @@ The Features are manual sliding, automatic background music, map display and dyn
 
 ## Local Deployment
 download to local folder
+下载至本地
 
 ## Production Build and Installation
 use browser to open directly
+用浏览器打开
 
 ### Manual Deployment Notes
 
